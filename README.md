@@ -1,2 +1,2 @@
 # Odin-Recipes
-Portfolio of work learned going through The Odin Project
+This portfolio is intended to showcase work and skills gained from The Odin Project
